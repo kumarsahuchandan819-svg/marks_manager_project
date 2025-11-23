@@ -31,6 +31,10 @@ Everything works in-memory (data resets when program restarts), which keeps the 
 
 No external libraries are used — only built-in Python functions, keeping the project fully syllabus-aligned.
 
+## Screenshots
+
+[project screenshot.pdf](https://github.com/user-attachments/files/23696879/project.screenshot.pdf)
+
 ## How to Run
 1.⁠ ⁠Make sure Python is installed.
 2.⁠ ⁠Open the project folder in VS Code.
@@ -38,7 +42,3 @@ No external libraries are used — only built-in Python functions, keeping the p
 
 ```bash
 python marks_manager.py
-
-## Screenshots (Optional but Recommended)
-
-[project screenshot.pdf](https://github.com/user-attachments/files/23696866/project.screenshot.pdf)
